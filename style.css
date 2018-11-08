@@ -1,0 +1,311 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Alex Brush';
+}
+
+/* First half */
+#first-tri {
+    height: 100vh;
+    width: 100vw;
+}
+
+#header {
+    height: 30%;
+    margin-bottom: 26px;
+}
+
+#grand-opening-header {
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+#celebrate-header {
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#address-header {
+    margin: auto;
+    font-weight: bold;
+}
+
+#header-images {
+    height: 70%;
+}
+
+.images {
+    height: 95%;
+    width: 33%;
+    vertical-align: top;
+}
+
+#coffee-image {
+    float: left;
+}
+
+#cupcake-image {
+    float: right;
+}
+
+#second-tri {
+    height: 100vh;
+    width: 100vw;
+}
+
+#sign-up {
+    background-color: black;
+    height: 50%;
+}
+
+#sign-up-header {
+    padding-top: 15px;
+}
+
+#stay-chic {
+    margin-bottom: 0;
+}
+
+.white-header {
+    color: white;
+    font-family: 'Alex Brush';
+}
+
+#free-cupcake-header {
+    color: white;
+    margin-top: 0;
+}
+
+.free-cupcake {
+    color: #f40b73;
+}
+
+.input-div {
+    margin-bottom: 20px;
+}
+
+.input-name {
+    width: 20%;
+    height: 13%; 
+}
+
+#first-name-input {
+    margin-right: 10px;
+}
+
+#email-input {
+    width: 41%;
+    height: 13%;
+}
+
+button {
+    background-color: #f40b73;
+    border: none;
+    font-size: 3em;
+    width: 35%; 
+}
+
+.small-cupcakes {
+    width: 6%;
+}
+
+#spam {
+    color: white;
+    font-style: italic;
+    margin-top: 15px;
+}
+
+#icons {
+    height: 50%;
+}
+
+.icon-div {
+    display: inline-block;
+    margin-top: 35px;
+    text-align: center;
+    width: 33%;
+    vertical-align: top;
+}
+
+.icon-images {
+    width: 40%;
+}
+
+#cupcake-div {
+    margin-top: 16px;
+    vertical-align: top;
+}
+
+.icon-headings {
+    color: #f40b73;
+}
+
+#beverage-icon {
+    width: 40%;
+}
+
+#cupcake-icon {
+    width: 32%;
+}
+
+#savory-icon {
+    width: 40%;
+}
+
+#third-tri {
+    height: 100vh;
+    width: 100vw;
+}
+
+#references {
+    background-color: black;
+    height: 50%;
+}
+
+#coffee-with-style-header {
+    padding-top: 65px;
+    margin-bottom: 0;
+}
+
+#gossip {
+    color: #f40b73;
+    margin-top: 0;
+}
+
+#first-quote-div {
+    float: left;
+}
+
+.quote-divs {
+    color: white;
+    display: inline-block;
+    width: 50%;
+}
+
+#footer {
+    height: 50%;
+}
+
+#stay-chic-header {
+    font-family: 'Alex Brush';
+    margin-bottom: 0;
+    margin-top: 25px;
+}
+
+#shop-online-header {
+    color: #f40b73;
+    margin-top: 0;
+}
+
+#address {
+    display: inline-block;
+    width: 25%;
+    height: 50%;
+    margin-top: 20px;
+}
+
+#shop-address {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+#street-address {
+    margin-top: 0;
+    text-align: left;
+}
+
+#social-media-icons-div {
+    display: inline-block;
+    width: 25%;
+    height: 50%;
+    margin-top: 20px;
+    text-align: center;
+    vertical-align: top;
+}
+
+#online {
+    /* text-align: right; */
+}
+
+.social-media-icons {
+    display: inline-block;
+    width: 15%;
+}
+
+/* Modal */
+#modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;  
+    overflow: auto;
+    background-color: black;
+    opacity: 0.95;
+}
+
+#modal-content {
+    background-color: white;
+    width: 50%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#youre-chic {
+    margin-bottom: 0;
+    padding-top: 21px;
+    font-size: 4em;
+}
+
+#cupcake-ants {
+    width: 100%;
+}
+
+#close {
+    float: right;
+    font-size: 75px;
+    font-weight: bold;
+    /* padding: 0px 12px; */
+}
+
+#close:hover,
+#close:focus {
+    color: #f40b73;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* .fa {
+    color: black;
+    font-size: 8vmin;
+    float: right;
+    font-weight: bold;
+} */
+
+#voucher {
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+#free-cupcake-on-way {
+    font-size: 2em;
+    margin: 0;
+}
+#redeemable {
+    margin-top: 5px;
+    padding-bottom: 19px;
+}
+
+
+
+
+
+  
+
+
+
