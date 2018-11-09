@@ -301,7 +301,11 @@ button {
     padding-bottom: 19px;
 }
 
-
+.popover-content {
+    color: #f40b73;
+    font-family: tahoma;
+    border-radius: 5px;
+}
 
 
 
